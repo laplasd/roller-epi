@@ -4,7 +4,7 @@
 
 Добро пожаловать в проект roller-epi! Выберите предпочтитаемый язык:
 
-- [English](https://laplasd.github.io/roller-epi/index.md)
+- [English](index.md)
 - [Русский](ru/home.md)
 
 ---
