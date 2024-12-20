@@ -4,7 +4,7 @@
 
 Добро пожаловать в проект roller-epi! Выберите предпочтитаемый язык:
 
-- [English](index.md)
+- [English](../index.md)
 - [Русский](ru/home.md)
 
 ---
