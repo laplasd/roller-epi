@@ -19,9 +19,9 @@
 - [API Documentation](en/api.md)
 
 ### Русский
-- [О проекте](ru/about.md)
-- [Начало работы](ru/getting_started.md)
-- [Документация API](ru/api.md)
+- [О проекте](about.md)
+- [Начало работы](getting_started.md)
+- [Документация API](api.md)
 
 ---
 
