@@ -3,3 +3,9 @@ description: "Documentation and pages"
 baseurl: "" # Если проект на основном домене
 url: "https://laplasd.github.io/roller-epi/" # Адрес сайта
 theme: minima
+
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
