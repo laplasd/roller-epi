@@ -7,8 +7,8 @@ title: Home
 
 Welcome to the roller-epi project! Please select your preferred language:
 
-- [English](en/home.md)
-- [Русский](ru/home.md)
+- [English](ttps://laplasd.github.io/roller-epi/index.md)
+- [Русский](ttps://laplasd.github.io/roller-epi/ru/home.md)
 
 ---
 
