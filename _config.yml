@@ -2,8 +2,8 @@ title: "roller-epi"
 description: "Executor Plugin Interface Documentation"
 baseurl: "/roller-epi"
 url: "https://laplasd.github.io/roller-epi/" # Адрес сайта
-theme: minima
-remote_theme: pages-themes/slate@v0.2.0
+
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
