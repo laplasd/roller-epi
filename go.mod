@@ -1,3 +1,3 @@
-module github.com/Ilya-Guyduk/RoLLeR/pei
+module github.com/laplasd/roller-epi
 
 go 1.22.5
